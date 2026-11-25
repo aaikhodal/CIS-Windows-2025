@@ -1,5 +1,9 @@
 # CIS-L1-Windows-2025
 Also copy or install Administrative Templates (.admx) 
+
+New install Administrative Templates location here 
+    =>   C:\Program Files (x86)\Microsoft Group Policy copy new PolicyDefinitions and you can place that in below location
+    
  1) Path for - C:\Windows\PolicyDefinitions
  2) Central Store location - C:\Windows\SYSVOL\Policies\PolicyDefinitions
 
